@@ -26,7 +26,7 @@ public class SheetsUtil {
 
     /** Application name. */
     private static final String APPLICATION_NAME =
-            "CDM to JSON Mapper";
+            "Demo Sheet Reader";
 
     /** Directory to store user credentials for this application. */
     private static final java.io.File DATA_STORE_DIR = new java.io.File(
