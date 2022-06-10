@@ -16,7 +16,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <gdata.core.version>1.47.1</gdata.core.version>
         <jackson-databind.version>2.9.10.1</jackson-databind.version>
-        <google.client.version>1.22.0</google.client.version>
+        <google.client.version>1.33.3</google.client.version>
         <poi-ooxml.version>3.15</poi-ooxml.version>
     </properties>
 
